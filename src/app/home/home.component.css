@@ -15,7 +15,7 @@
     padding: 45px 5px;
 }
 
-.banner .box .paragraph {
+.banner .box .paragrafo {
     margin: 15px 0;
     font-size: var(--font-size-5);
     font-weight: 400;
@@ -29,7 +29,7 @@
 .banner .box .title2 {
     font-size: var(--font-size-1);
     display: block;
-    max-width: 450px;
+    max-width: 600px;
 }
 
 .banner .box .buttons {

@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
 })
 export class MenuComponent {
 
-  constructor(private menuService: MenuService) {}
+  constructor(private menuService: MenuService) { }
 
   menuStatus: string = 'closed';
   menuItems?: Array<Menu>;

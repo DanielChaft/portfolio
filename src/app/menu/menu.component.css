@@ -53,7 +53,8 @@ nav i {
         justify-content: center;
     }
 
-    nav ul.open, nav ul.closed {
+    nav ul.open,
+    nav ul.closed {
         display: flex;
         flex-direction: row;
         position: relative;
